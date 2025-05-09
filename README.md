@@ -8,14 +8,14 @@ Final project for the Building AI course
 
 ## Background
 
-Music is rarely personalized to match the intensity or feeling of a surf session. Many surfers enjoy listening to music before or after sessions to get in the zone or unwind. However, there's no system that connects *how you surf* with *what you hear*.
+Many surfers enjoy listening to music before or after sessions to get in the zone or unwind. However, there's no system that connects how you surf with what you hear.
 
 Problems this idea addresses:
 - Lack of personalized music experiences for surfers
 - Disconnection between mood, physical effort and playlist choice
 - Missed opportunities to boost motivation or relaxation through sound
 
-My motivation: I’m a surfer and a music lover. I want to merge these worlds to enhance the way we ride and recover.
+My motivation : I’m a surfer and a music lover. I want to merge these worlds to enhance the way we ride and recover.
 
 ## How is it used?
 
@@ -27,11 +27,6 @@ The app performs:
 3. Playlist generation using Spotify API, matching mood and tempo
 
 **Users**: Surfers with smartwatches or apps like Surfline. Also usable without hardware : users can manually input feelings and session data.
-
-**Needs to consider**:
-- Offline playlist download
-- Language-neutral interface
-- Calm UI to match surfing mindset
 
 
 ## Data sources and AI methods
@@ -101,3 +96,4 @@ Needed to move forward:
 - Music data from Spotify API – [Spotify Developer Docs](https://developer.spotify.com/)
 - Surf data ideas inspired by [Surfline](https://www.surfline.com/) and [MSW](https://magicseaweed.com/)
 - Mood detection ideas from the [Affectiva Emotion AI](https://www.smart-eye.com/emotion-ai/) concept
+- Courses from Elements of AI and Building AI
