@@ -2,24 +2,17 @@
 
 Final project for the Building AI course
 
-## Summary
-
-**SurferMood** is an AI-powered assistant that generates custom Spotify playlists adapted to your surf session, based on wave conditions, your physical data, and detected mood. -> Building AI course project.
-
 ## Background
 
 Many surfers enjoy listening to music before or after sessions to get in the zone or unwind. However, there's no system that connects how you surf with what you hear.
 
-Problems this idea addresses:
-- Lack of personalized music experiences for surfers
-- Disconnection between mood, physical effort and playlist choice
-- Missed opportunities to boost motivation or relaxation through sound
+Problems this idea addresses: Lack of personalized music experiences for surfers ; disconnection between mood, physical effort and playlist choice ; missed opportunities to boost motivation or relaxation through sound.
 
 My motivation : I’m a surfer and a music lover. I want to merge these worlds to enhance the way we ride and recover.
 
 ## How is it used?
 
-**SurferMood** is used before, during (optionally), or after a surf session. The user connects their smartwatch (for heart rate, session duration, GPS) and/or lets the app access surf spot data (via surf forecast APIs).
+SurferMood is used before, during (optionally), or after a surf session. The user connects their smartwatch (for heart rate, session duration, GPS) and/or lets the app access surf spot data (via surf forecast APIs).
 
 The app performs:
 1. Analysis of surf session (speed, intensity, wave quality)
